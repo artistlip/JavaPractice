@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Scanner_while_true_break_18_04 {
+public class Scanner_while_true_break_18_04 {
         public static void main(String[] args) {
             double rateUSD = 78;
             double rateEUR = 85;

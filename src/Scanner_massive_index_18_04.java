@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Scanner_massive_index_18_04 {
+public class Scanner_massive_index_18_04 {
     public static void main (String[] args) {
 
         String[] actress = {"Audrey Bittoni", "Sasha Grey", "Peta Jensen", "Madison Ivy", "Ava Addams"}; // Массив

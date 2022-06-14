@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class Scanner_while_if_15_04 {
+public class Random_scanner_while_if_15_04 {
     public static void main(String[] args) {
  
         Scanner scanner = new Scanner(System.in); 
