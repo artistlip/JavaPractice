@@ -1,5 +1,5 @@
 public class LogicalOpTable_22_04 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         boolean p,q;
         String a="P", b="Q", c="AND", d="OR", e="XOR", f="NOT";
 
