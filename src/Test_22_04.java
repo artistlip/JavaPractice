@@ -1,7 +1,7 @@
 public class Test_22_04 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
-        boolean isprime = true;
+        boolean isprime;
         int i, j;
         for (i = 2; i < 100; i++) {
             isprime = true;

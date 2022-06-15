@@ -1,5 +1,5 @@
 public class Switch_30_04 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int i;
 
         for(i=0; i<10; i++)

@@ -2,7 +2,7 @@
 Простая справочная система.
  */
     public class Help2_30_04 {
-        public static void main(String args[])
+        public static void main(String[] args)
                 throws java.io.IOException {
 
             char choice, ignore;
